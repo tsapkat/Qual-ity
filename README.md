@@ -8,5 +8,5 @@
   
 Created by [**Aikaterini Tsaparidou**]
 
-! [New GitHub Logo-The GitHub Blog](https://github.blog/news-insights/company-news/new-github-logo/)
+![New GitHub Logo-The GitHub Blog](https://github.blog/news-insights/company-news/new-github-logo/)
 
