@@ -1,4 +1,4 @@
-# Qual-ity
+# “Example of README.md”
 
 ## Practice on Github
 
